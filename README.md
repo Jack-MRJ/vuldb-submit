@@ -62,13 +62,13 @@ Linux下提交
 
 ![1](Screenshot/1.png)
 
-![2](D:\Desktop\AI相关\skill开发\提交vuldb skill开发\vuldb-submitV3.0\Screenshot\2.jpg)
+![2](Screenshot/2.jpg)
 
 Windows下提交
 
-![3](D:\Desktop\AI相关\skill开发\提交vuldb skill开发\vuldb-submitV3.0\Screenshot\3.png)
+![3](Screenshot/3.png)
 
-![4](D:\Desktop\AI相关\skill开发\提交vuldb skill开发\vuldb-submitV3.0\Screenshot\4.jpg)
+![4](Screenshot/4.jpg)
 
 ## 使用流程
 
